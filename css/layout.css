@@ -1,0 +1,49 @@
+h2{
+    color: black;
+    font-size:25px ;
+}
+
+#photo-template h2{
+    font-weight: 600;
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+
+header h1{
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    padding: 5px;
+    font-weight: bolder;
+    margin-left: 80px;
+    letter-spacing: 15px;
+}
+main p{
+    padding-top: 10px;
+    font-weight: 600;
+    font-size: 20px;
+}
+select{
+    margin-left: 35%;
+    width: 400px; 
+    height: 200px;
+    margin-top: 25px;
+    border-radius: 5px;
+    text-align: center;
+    height: 28px;
+    background-color:lightgray;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    color: #f5f5ff;
+    font-weight: 900;
+    height: 100px;
+    line-height: 100px;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: rgba(4, 8, 243, 0.836);
+}
