@@ -1,0 +1,16 @@
+#buttons{
+    padding-top: 20px;
+      margin-left: 24%;
+}
+button{
+      background-color: rgba(4, 8, 243, 0.836);
+      padding: 5px;
+      margin: 5px;
+      border-radius: 4px;
+      width: 150px;
+      color: white;
+}  
+
+body{
+    background-color: rgb(210, 222, 233);
+}

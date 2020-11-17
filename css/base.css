@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono:ital@0;1&display=swap');
+
+main ,header{
+    padding: 50px;
+}
+
+
+main > :first-child {
+      display: none;
+}
+  
+body{
+      background-color: rgb(255, 255, 255);
+      font-family: 'Xanh Mono', monospace;
+      padding: 10px;
+      margin: auto;
+  
+}
+img{
+      height: 275px;
+      width: 275px;
+      padding-left: 10px;
+      padding-right: 10px;
+      outline: 3px solid rgba(4, 8, 243, 0.836);
+  
+}
+main{
+      display: flex;
+      flex-wrap: wrap;
+}
+section{
+      flex-grow: 1;
+      width: 22%;
+      height:400px ;
+      background-color: rgba(206, 204, 204, 0.603);
+      border: 1px solid black;
+      margin: 10px;
+      text-align: center;
+      box-sizing: border-box;
+}
+section p{
+      margin-left: 20px;
+      margin-right: 20px;
+}
+section h2{
+      margin-left: 20px;
+      margin-right: 20px;
+      margin-bottom: 10px;
+}
